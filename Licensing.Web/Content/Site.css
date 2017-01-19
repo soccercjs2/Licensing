@@ -73,6 +73,64 @@ textarea {
     padding: 5px;
 }
 
+/* Generic View Styles */
+.row-button-container {
+    display: inline-block;
+    margin-left:auto;
+}
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.border-top {
+    border-top: 2px solid #ddd;
+}
+
+.float-right {
+    float: right;
+}
+
+.padded {
+    padding: 5px;
+}
+
+.padded-small {
+    padding: 2px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.margin-top {
+    margin-top: 15px;
+}
+
+/* Table Styles */
+
+table {
+    border: 2px solid #ddd;
+}
+
+thead {
+    background-color: #F5F5F5;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
 /* WSBA Styles for header */
 
 .wsba-tone-top {
