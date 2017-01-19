@@ -28,13 +28,12 @@ namespace Licensing.Data.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = true;
-            AutomaticMigrationDataLossAllowed = true;
+            AutomaticMigrationsEnabled = false;
         }
 
         protected override void Seed(Licensing.Data.Context.LicensingContext context)
         {
-            //GenerateSeedData(context);
+            GenerateSeedData(context);
         }
 
         private void GenerateSeedData(Context.LicensingContext context)
