@@ -175,7 +175,6 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_DashboardContainer.cshtml" />
-    <Content Include="Views\Shared\_DashboardContainer2.cshtml" />
     <Content Include="Views\Shared\_MembershipType.cshtml" />
     <Content Include="Views\Shared\_TrustAccount.cshtml" />
     <Content Include="Views\Shared\_ProfessionalLiabilityInsurance.cshtml" />
