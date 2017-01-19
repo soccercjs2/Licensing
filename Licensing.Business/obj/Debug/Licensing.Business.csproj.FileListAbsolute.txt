@@ -1,0 +1,5 @@
+C:\Projects\Licensing\Licensing.Business\bin\Debug\Licensing.Business.dll
+C:\Projects\Licensing\Licensing.Business\bin\Debug\Licensing.Business.pdb
+C:\Projects\Licensing\Licensing.Business\obj\Debug\Licensing.Business.dll
+C:\Projects\Licensing\Licensing.Business\obj\Debug\Licensing.Business.pdb
+C:\Projects\Licensing\Licensing.Business\obj\Debug\Licensing.Business.csprojResolveAssemblyReference.cache
